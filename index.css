@@ -1,0 +1,29 @@
+body {
+background-image: url("back.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+#wf-hannari {
+  font-family: "Hannari";
+}
+
+.kanako{
+  height:400px;
+  width:300px;
+}
+
+#menu{
+  text-align: center;
+}
+#mn{
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+
+
+a{
+  color: white;
+}

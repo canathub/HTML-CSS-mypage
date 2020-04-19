@@ -1,0 +1,23 @@
+body {
+background-image: url("emo.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+#wf-hannari {
+  font-family: "Hannari";
+}
+
+a{
+  color: white;
+}
+
+#menu{
+  text-align: center;
+}
+#mn{
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
